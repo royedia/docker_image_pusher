@@ -7,3 +7,4 @@ haroldli/xiaoya-tvbox
 faucet/python3
 btpanel/baota:lnmp
 btpanel/bt
+ubuntu
