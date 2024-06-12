@@ -4,4 +4,4 @@ xhofe/alist:latest
 postgres
 haroldli/xiaoya-tvbox
 ubuntu
-okxlin/docker-1panel
+moelin/1panel:latest
