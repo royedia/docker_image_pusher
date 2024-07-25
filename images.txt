@@ -5,3 +5,4 @@ postgres
 haroldli/xiaoya-tvbox
 ubuntu
 moelin/1panel:latest
+dpanel/dpanel:latest
